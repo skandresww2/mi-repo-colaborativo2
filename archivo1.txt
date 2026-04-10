@@ -4,4 +4,8 @@ CAMBIOS DE CODIGO DESDE GITHUB WEB
 
 Cambio realizado en Local (rama main)
 
+<<<<<<< HEAD
 Cambio realizado en Local (rama main)
+=======
+Cambio realizado en GitHub Web (rama main)
+>>>>>>> 52b7a89a68bc58eeccdd0005170a5161d852d667
